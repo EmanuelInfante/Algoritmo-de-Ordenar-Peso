@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1602122289 source:/home/gabriel/Documentos/programacion_cplusplus/Segundo trabajo/Ordenar Peso/src/Numeros.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<string>
+	"Numeros.h"
+
+1602122341 /home/gabriel/Documentos/programacion_cplusplus/Segundo trabajo/Ordenar Peso/include/Numeros.h
+
+1602122365 source:/home/gabriel/Documentos/programacion_cplusplus/Segundo trabajo/Ordenar Peso/main.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<Numeros.h>
+
